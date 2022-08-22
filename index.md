@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+---
+title: "About"
+permalink: "/About/"
+layout: page
+---
 
-You can use the [editor on GitHub](https://github.com/egarcibo14/egarcibo14.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![This is an image](/images/ErasmusCopernicusLogo.png) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Copernicus Master in Digital Earth (EMJMD)
 
-### Markdown
+![This is an image](/images/portada.png) 
+## Personal Motivation 
+-	Curios eager to learner
+-	Great program for professional skill development (summer schools, conferences, internship)
+-	International environment 
+-	Nature lover
+	
+#### 1. Objectives
+	- Learn new skills
+	- Get involved in geo – related research projects
+	- Improving the scientific writing skill
+	- Map generation and data analysis skill" for any scientific career"
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 2. Interests
+	- Geo- projects 
+	- Integration of remote sensing and in situ measurements. 
+	- Learning appropriate ways to communicate and visualize hazards and risks to be relevant for decision-making.	
+	- Do user friendly: maps and data bases
+	- Integrate extract more information of images (With all types of wavelengths e.g.: optical, radar, lidar, thermal)
 
-```markdown
-Syntax highlighted code block
+![This is an image](/images/about.png) 
 
-# Header 1
-## Header 2
-### Header 3
+## Background
 
-- Bulleted
-- List
+GEOLOGIST BACHELOR'S DEGREE – Universitat de Barcelona		ERASMUS – Háskóli Íslands
+- Degree in Geology interested on Remote Sensing techniques.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+| Experience                      | Location                                                                  |
+|---------------------------------|---------------------------------------------------------------------------|
+| Junior InSAR Engineer           | Sixense Iberia, Dares Technology                                          |
+| Junior Remote Sensing Geologist | Sixense Iberia, GEO3BCN-CSIC / Lítica , Dares Technology, Háskóli Íslands |
+| Junior Geologist                | GeoServei, Litoclean, GEO3BCN-CSIC / Lítica                               |
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+- Junior InSAR Engineer: 
+	- Interpretation of InSAR data and optical images in operational projects. SAR Interferometry (PSI) preprocessing and postprocessing. Multi-sensor (Sentinel-1 A/B, ERS/ENVISAT ASAR, TerraSAR-X,Radarsat-2). 
+	- Reporting of operational projects for customers. 
 
-### Jekyll Themes
+- Junior Remote Sensing Geologist: 
+	- Optical image processing (Sentinel-2, ASTER, Landsat-8).
+	- Mining sector, ore estimation with portable laboratory cameras, images (optic, hyperspectral).
+	- Integration optical multispectral data and sampling data gathered on the earth surface.
+	- Working with the GPS points position taken on the monitoring of the fissure lava eruption.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/egarcibo14/egarcibo14.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Junior Geologist:
+	- Hydrogeology and edaphology mapping.
+	- GIS consultant.
+	- Assistant geotechnical projects.
+	- Sampling in the mining sector
+	- Assistant in water and soil remediation projects
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+PUBLICATIONS
+
+'Machine Learning For Mineral Identification And Ore Estimation From Hyperspectral Imagery In Tin–Tungsten
+Deposits: Simulation Under Indoor Conditions'
+2021
+Lobo, A.; Garcia, E.; Barroso, G.; Martí, D.; Fernandez-Turiel, J.-L.; Ibáñez-Insa, J. Machine Learning for Mineral
+Identification and Ore Estimation from Hyperspectral Imagery in Tin–Tungsten Deposits: Simulation under Indoor
+Conditions. Remote Sens. 2021, 13, 3258. https://doi.org/10.3390/rs13163258
+
+
+## Outlook
+-	Working with geo – related projects
+-	Continue in academia?
+-	Contribution to solving society necessities
+
